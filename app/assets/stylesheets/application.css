@@ -38,3 +38,20 @@ p{
   display: block;
   margin: 33px;
 }
+
+td {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+a{
+  cursor: pointer;
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+}
