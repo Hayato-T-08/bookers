@@ -55,3 +55,33 @@ a:hover {
   background-color: black;
   color: white;
 }
+.error-msg {
+  border: 2px solid red;
+  padding: 7px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+.error-msg h2{
+  color: #fff;
+  background-color: #c00;
+  margin: -7px;
+  font-size: 12px;
+  padding: 5px 5px 5px 15px;
+  margin-bottom: 0;
+}
+
+.error-msg ul li {
+  font-size: 12px;
+  list-style: square;
+}
+
+ul{
+  display: block;
+  margin: 33px;
+}
+
+li {
+  display: list-item;
+  
+}
